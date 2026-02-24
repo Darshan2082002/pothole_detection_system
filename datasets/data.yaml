@@ -1,0 +1,7 @@
+path: D:\Python project\AI for Robotics\Pothole\pothole_detection_system\datasets
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  0: pothole
