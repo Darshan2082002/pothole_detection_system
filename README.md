@@ -16,5 +16,7 @@ Pothole Detection for India Roads using GPS Tracking
    2.  Unzip the file
    3.  copy the image and label(annotation) to dataset/raw/
 4. To run split and process the data
-   1. 
+   1.( Readme file update is pending it will be done within 2 days of time) --> In this repo you can directly deploy the model into raspberry pi and showcase the result to the panel and review
+    
+
 
