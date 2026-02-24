@@ -10,10 +10,11 @@ Pothole Detection for India Roads using GPS Tracking
       4. pip install -r requirements.txt
     2. To use virtual env if your Visual studio code
        1. python -m venv venv (make sure you download the python 3.9 manaully in conda it does by itself)
-       2. venv\Scripts\activate.bat (to activate the env) --> To do check the this link to for virtual enviorment setup for linux/windows/ MAC OS  ( This is official link--> ttps://docs.python.org/3/library/venv.html , This is Geek for Geek for better understanding --> https://www.w3schools.com/python/python_virtualenv.asp)
+       2. venv\Scripts\activate.bat (to activate the env) --> To do check the this link to for virtual enviorment setup for linux/windows/ MAC OS  ( This is official link--> https://docs.python.org/3/library/venv.html , This is Geek for Geek for better understanding --> https://www.w3schools.com/python/python_virtualenv.asp)
 3. To download the dataset
    1.  Kaggle --> https://www.kaggle.com/datasets/atulyakumar98/pothole-detection-dataset
    2.  Unzip the file
    3.  copy the image and label(annotation) to dataset/raw/
 4. To run split and process the data
    1. 
+
